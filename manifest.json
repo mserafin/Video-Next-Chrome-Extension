@@ -1,6 +1,6 @@
 {
 	"version" : "1.0.0",
-	"author": "Mariusz Serafin",
+	"author": "mserafin",
 	"name" : "Video Next",
 	"description" : "The application allows you to bypass the playback video. Can be used to scroll through ads placed before a video.",
 	"permissions" : [
